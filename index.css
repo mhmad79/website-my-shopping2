@@ -1,0 +1,77 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 97%;
+    margin: auto;
+    height: 60px;
+    background-color: black;
+}
+
+li {
+    list-style: none;
+    margin: 37px;
+}
+
+ul.links {
+    display: flex;
+    margin: 27px;
+}
+
+.page {
+    background-color: white;
+}
+
+
+.sals {
+    top: 42px;
+    display: flex;
+    position: relative;
+    width: 1226px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 50px;
+    height: 505px;
+    text-transform: capitalize;
+}
+
+img.img2 {
+    width: 386px;
+}
+
+.lineblak {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+.img3 {
+    height: 513px;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.shop.now {
+    height: 30px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 30px;
+}
+
+a:hover {
+    color: red;
+}
+
+body {
+    width: 1239px;
+    margin: 10px auto;
+
+}
